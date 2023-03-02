@@ -1,0 +1,313 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,500;1,600;1,700&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    max-width: 1150px;
+    padding: 0px 20px;
+    margin: 0 auto;
+}
+
+.head {
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    letter-spacing: -1px;
+    padding: 20px;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    margin-top: -60px;
+    gap: 30px;
+}
+
+.header {
+    background: #F4F7F0;
+    width: 1200px;
+    height: 100px;
+}
+
+.a {
+    text-decoration: none;
+    color: rgb(151, 138, 138);
+}
+
+.a:hover {
+    color: black;
+}
+
+.btn {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    border: 2px solid #84AE52;
+    border-radius: 40px;
+    color: #84AE52;
+    width: 163px;
+    height: 48px;
+}
+
+.hero-btn {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -30px;
+}
+
+.why {
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 69px;
+}
+
+.copy {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.image {
+    margin-left: 600px;
+    margin-top: -400px;
+}
+
+.key {
+    font-family: Fraunces;
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 54px;
+    letter-spacing: 0px;
+    padding-top: 130px;
+}
+
+.btn-1 {
+    height: 60px;
+    width: 196px;
+    border-radius: 40px;
+    padding: 13px 30px 13px 30px;
+    background: #84AE52;
+    border: none;
+    margin: 30px;
+}
+
+.paragraf {
+    margin-left: 600px;
+    margin-top: -220px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0px;
+    max-width: 546px;
+}
+
+.text {
+    margin-top: 170px;
+    font-family: Fraunces;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: 0px;
+}
+
+.image-2 {
+    max-width: 700px;
+    padding-left: 600px;
+}
+
+.width {
+    font-family: Fraunces;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: 0px;
+}
+
+.hero-paragraf {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -70px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0px;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.apk {
+    margin-left: 200px;
+    margin-top: 25px;
+}
+
+.Cardiac {
+    margin-top: -56px;
+}
+
+.hero-lebel {
+    display: flex;
+    justify-content: space-between;
+}
+
+.aps {
+    margin-left: 150px;
+    margin-top: 25px;
+}
+
+.Cardiology {
+    margin-top: -40px;
+}
+
+.Dermatology {
+    margin-top: -40px;
+}
+
+.hight {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.hight-hero {
+    padding-top: 100px;
+}
+
+.btn-hro {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-tnt {
+    color: #FFFFFF;
+    height: 48px;
+    width: 215px;
+    border-radius: 40px;
+    background: #84AE52;
+}
+
+.puple {
+    padding-top: 40px;
+}
+
+.Technology {
+    font-family: Fraunces;
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 54px;
+    margin-top: 52px;
+    letter-spacing: 0px;
+}
+
+.parag {
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 40px;
+    padding-left: 600px;
+    margin-top: -71px;
+    letter-spacing: 0px;
+    max-width: 546px;
+}
+
+.Genetic {
+    font-family: Fraunces;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: 0px;
+}
+
+.cancer {
+    max-width: 508px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0px;
+}
+
+.section {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.sleep {
+    padding-top: 150px;
+}
+
+.teach {
+    padding-left: 600px;
+    margin-top: -400px;
+}
+
+.jek {
+    font-family: Fraunces;
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 54px;
+    letter-spacing: 0px;
+    padding-top: 70px;
+}
+
+.deggi{
+    gap: 80px;
+}
+
+.chalpal {
+    text-decoration: none;
+    padding-top: 150px;
+    padding-left: 50px;
+    font-size: 25px;
+    color: #818278;
+  }
+  
+  .icons {
+    padding-top: 50px;
+    padding-left: 50px;
+  }
+  
+  .icon {
+    margin: 20px;
+  }
+  
+  .footer-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 600px;
+    margin-top: -190px;
+  }
+  
+  .nive {
+    font-size: 20px;
+    color: #818278;
+    text-decoration: none;
+    margin: 8px;
+  }
+
+  .nive:hover{
+    color: black;
+  }
+  
+  .footer-navbar {
+    display: flex;
+    flex-direction: column;
+    padding-left: 800px;
+    margin-top: -200px;
+  }
+  
+  .footer-nivebar {
+    display: flex;
+    flex-direction: column;
+    padding-left: 1000px;
+    margin-top: -160px;
+  }
+  
